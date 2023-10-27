@@ -1,5 +1,4 @@
 # Conway-Life-Game
-Title: Conway's Game of Life Visualization
 
 Description:
 This project contains a Python script that visualizes the evolution of cellular automaton as per the rules of Conway's Game of Life. Utilizing the `matplotlib` library, the script showcases the dynamics of cells on a grid over time through an animated display.
